@@ -1,0 +1,9 @@
+{
+    "name": "directive_scope",
+    "version": "latest",
+
+    "dependencies": {
+        "angular": "latest",
+        "bootstrap": "latest"
+    }
+}
